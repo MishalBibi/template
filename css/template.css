@@ -1,0 +1,52 @@
+<!--header code-->
+.header
+{
+    background-color:olivedrab ;
+    padding-top: 50px;
+
+  
+}
+.bg-color
+{
+    background-color:yellowgreen;
+    padding-top: 30px;
+    padding-bottom: 5px;   
+}
+.bg
+{
+   background-color: black; 
+   
+}
+.nav-link
+{
+    color: silver !important;
+}
+.navbar-brand
+{
+    color: silver !important;   
+}
+.second h2
+{
+    
+    margin-top: 40 px;
+}
+.second img
+{
+    height: 300px;
+}
+.third
+{
+    background-color: yellowgreen;
+    color: black;
+
+}
+.third img
+{
+    margin-top: 40px;
+    border-radius: 50%;
+}
+.third button
+{
+  
+    border-radius:10%;
+}
